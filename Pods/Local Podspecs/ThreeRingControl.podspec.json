@@ -20,7 +20,7 @@
   ],
   "exclude_files": "Classes/Exclude",
   "resources": "ThreeRingControl/*.mp3",
-  "static_framework": true,
+ 
   "pod_target_xcconfig": {
     "SWIFT_VERSION": "3"
   },
